@@ -1,4 +1,4 @@
-# 🎯 Goal: Functions
+# 🎯 Goal: Relations
 
 ## Objective
 
